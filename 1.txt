@@ -1,5 +1,5 @@
 
-apt-get install -y openssh-server apache2 mysql-server mysql-client \
+openssh-server apache2 mysql-server mysql-client \
   mongodb curl sox mpg123 sqlite3 git uuid libodbc1 unixodbc unixodbc-bin \
   asterisk asterisk-core-sounds-en-wav asterisk-core-sounds-en-g722 \
   asterisk-dahdi asterisk-flite asterisk-modules asterisk-mp3 asterisk-mysql \
